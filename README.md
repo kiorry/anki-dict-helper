@@ -1,3 +1,5 @@
+for English version, please check [this repository](https://github.com/ninja33/ODH)
+
 # Anki划词制卡助手 #
 
 "划词翻译，一键制卡"
